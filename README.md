@@ -1,6 +1,6 @@
 - 👀 I’m interested in coding & gaming
 - 🌱 I’m currently learning Coding HTML CSS JAVASCRIPT Maybe more
-- 📫 How to reach me stramrei94@gmail.com
+- 📫 How to reach me 
 - ⚡ Fun fact: why not ;D
 <!---
 AntonKatkov/AntonKatkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
